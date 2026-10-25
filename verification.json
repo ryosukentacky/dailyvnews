@@ -1,0 +1,23 @@
+{
+  "base_index_bytes": 210274,
+  "archive_messages": 73,
+  "extracted_images": [
+    [
+      "archive-image-001.png",
+      4284
+    ],
+    [
+      "archive-image-002.png",
+      241384
+    ],
+    [
+      "archive-image-004.png",
+      9439
+    ]
+  ],
+  "remote_images": [
+    "https://images.openai.com/static-rsc-4/RN2eHkHsXYAJBPYJcHco1iTfiFfg9Y7kbdGrTcl5t7NBS0XVvyzM97cupuaoFf_pyRz9hi10K-xjNjWujTbsJUbWmFuMA07mCRUmYs_S0-AKTZ0n6WO3yU5HtnWsBDoMipflSGFcAxE2jWwhPHhPhbZLIqc00g6oSdO4dMqyVZY?purpose=inline"
+  ],
+  "base_slider_count": 8,
+  "archive_interactivity": "not fully reconstructed"
+}
